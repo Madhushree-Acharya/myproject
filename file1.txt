@@ -1,2 +1,3 @@
 hello devops
 123
+today is friday
